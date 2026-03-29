@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "upright",
+  "base_artist": "NEI",
+  "createdAt": "2026-03-29T07:20:36.502704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Upright Smile",
+      "artist": "Crying Steel",
+      "has_synced": false,
+      "path": "select/01_Upright_Smile_Crying_Steel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beat It Upright",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/02_Beat_It_Upright_Korn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beat It Upright",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/03_Beat_It_Upright_Korn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Upright Destined Mongol",
+      "artist": "The Hu",
+      "has_synced": false,
+      "path": "select/04_Upright_Destined_Mongol_The_Hu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Few Upright",
+      "artist": "Heaven Shall Burn",
+      "has_synced": true,
+      "path": "select/05_The_Few_Upright_Heaven_Shall_Burn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walk Upright",
+      "artist": "Seeed",
+      "has_synced": true,
+      "path": "select/06_Walk_Upright_Seeed.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Land of the Upright Ones",
+      "artist": "Heaven Shall Burn",
+      "has_synced": true,
+      "path": "select/07_Land_of_the_Upright_Ones_Heaven_Shall_Burn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Upright Come",
+      "artist": "Patti Smith",
+      "has_synced": true,
+      "path": "select/08_Upright_Come_Patti_Smith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beat It Upright",
+      "artist": "KoЯn;Korn",
+      "has_synced": true,
+      "path": "select/09_Beat_It_Upright_KoЯn;Korn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Upright",
+      "artist": "Sweeping Promises",
+      "has_synced": false,
+      "path": "select/10_Upright_Sweeping_Promises.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beat It Upright",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/11_Beat_It_Upright_Korn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beat It Upright",
+      "artist": "KoЯn",
+      "has_synced": true,
+      "path": "select/12_Beat_It_Upright_KoЯn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Upright",
+      "artist": "The Revivalists",
+      "has_synced": true,
+      "path": "select/13_Upright_The_Revivalists.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Upright - Live At Brooklyn Bowl",
+      "artist": "The Revivalists",
+      "has_synced": false,
+      "path": "select/14_Upright_-_Live_At_Brooklyn_Bowl_The_Revivalists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Upright (live)",
+      "artist": "The Revivalists",
+      "has_synced": false,
+      "path": "select/15_Upright_(live)_The_Revivalists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "upright",
+      "artist": "NEI featuring KID FRESINO",
+      "has_synced": false,
+      "path": "select/pl_01_upright_NEI_featuring_KID_FRESINO.txt"
+    }
+  ]
+}
